@@ -70,3 +70,20 @@
     }
   }
 }
+
+@media (max-width: 1024px) {
+  .banner {
+    row-gap: 10px;
+    padding-inline: 15px;
+  }
+}
+
+@media (max-width: 767px) {
+  .banner-info {
+    margin-bottom: 5px;
+
+    &::before {
+      margin-right: 10px;
+    }
+  }
+}
