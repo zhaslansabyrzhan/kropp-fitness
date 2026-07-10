@@ -5,6 +5,7 @@
 @import 'base/globals.css';
 
 @import 'components/button.css';
+@import 'components/input.css';
 
 @import 'sections/header.css';
 @import 'sections/banner.css';
