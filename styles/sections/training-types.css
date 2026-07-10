@@ -1,7 +1,10 @@
 .training-types {
+  background-color: var(--color-dark);
+}
+
+.training-types-inner {
   position: relative;
   padding-block: 70px 120px;
-  background-color: var(--color-dark);
 }
 
 .training-types-list {
